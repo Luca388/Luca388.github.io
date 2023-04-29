@@ -8,7 +8,6 @@ DDL
 > - unable Rollback
 - Auto Commit
 
-
 DML
 > - Can Rollback before Commit
 - User commit
