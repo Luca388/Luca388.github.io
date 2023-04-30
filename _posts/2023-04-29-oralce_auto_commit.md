@@ -22,9 +22,15 @@ NOT > AND > OR
 
 NULL + 1 == NULL
 
-##  비교연산
+#  비교연산
 FALSE 리턴
  
+# 부정 비교연산
+iso 표준
+
+- != : 같지않다
+- ^- : 같지않다
+- <> : 같지않다
 
 # SQL Server
 DDL
