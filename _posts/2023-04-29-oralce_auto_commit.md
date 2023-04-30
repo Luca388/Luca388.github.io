@@ -32,6 +32,12 @@ iso 표준
 - ^- : 같지않다
 - <> : 같지않다
 
+# tip
+oracle 에서 insert into vaule 에 ''가 삽입되면 NULL값으로 처리된다
+
 # SQL Server
 DDL
 > DDL 문장 수행후 자동으로 commit을 수행하지 않는다.
+
+# tip
+SQL Server 에서  insert into 값에 ''가 들어가면 ''로 조회가 가능하다
