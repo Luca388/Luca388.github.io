@@ -14,6 +14,18 @@ DML
 > - Can Rollback before Commit
 - User commit
 
+# 논리연산자 우선순위
+NOT > AND > OR
+
+
+# NULL 과의 연산
+
+NULL + 1 == NULL
+
+##  비교연산
+FALSE 리턴
+
+
 # SQL Server
 DDL
 > DDL 문장 수행후 자동으로 commit을 수행하지 않는다.
