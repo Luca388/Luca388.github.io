@@ -24,7 +24,7 @@ NULL + 1 == NULL
 
 ##  비교연산
 FALSE 리턴
-
+ 
 
 # SQL Server
 DDL
