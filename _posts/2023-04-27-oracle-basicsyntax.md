@@ -37,3 +37,4 @@ column_name3 data_type(size) [constraint_name],
 # TCL(Transaction Control Language)
 dd
 d
+ddtsetst
